@@ -52,4 +52,3 @@ def get_collatz_starting_num_with_longest_chain(starting_num_limit):
     return longest_chain_starting_num
 
 print(get_collatz_starting_num_with_longest_chain(999999))
-#print(collatz_sequences)
